@@ -1,0 +1,138 @@
+body{
+    margin: 0;
+    font-family: 'Crimson Text', serif;
+}
+.name-sec h1{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 900;
+    color: white;
+    
+}
+.name-sec h3{
+    text-align: center;
+    color:cyan;
+
+}
+.link a{
+    text-decoration: none;
+    color: white;
+    text-align: right;
+
+}
+.contact-bar p{
+    float: left;
+    margin-left: 200px;
+    color: white;
+    
+    
+}
+.link{
+    float: left;
+    margin-top:17px;
+    margin-left: 300px;
+    padding-bottom: 50px;
+}
+.para{
+    margin-left: 500px;
+    color: white;
+    
+}
+.header{
+    background-image: url("images/new.jpg");
+    background-repeat: no-repeat;
+
+    overflow: hidden;
+
+}
+.about{
+    width: 30%;
+    float: left;
+    padding-top: 25px;
+    display: inline;
+    padding-left:70px;
+    
+}
+.about h1{
+    background-color:#80808045;
+    padding: 5px;
+    border-radius: 5px;
+}
+.about p{
+    font-size: 18px;
+    text-align: justify;
+    font-weight: 500;
+}
+.work{
+    padding-left: 40px;
+    font-size: 15px;
+    color: gray;
+}
+.skill{
+    
+    
+}
+.skill h1{
+    background-color:#80808045;
+    border-radius: 5px;
+    padding: 5px;
+
+}
+.skill h5 {
+    color: green;
+    font-family: 'Satisfy', cursive;
+}
+.experince{
+    width: 30%;
+    float: right;
+    padding-right: 70px;
+    padding-top: 25px;
+}
+.about a{
+    text-decoration: none;
+    background-color: orange;
+    font-weight:800 ;width: 100%;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    padding-left: 20px;
+
+}
+.education{
+    margin-top: 900px;
+}
+.design{
+    color: black;
+}
+.skill .rong{
+    color: orangered;
+}
+.shadow{
+    box-shadow: 5px 5px 40px gray;
+    
+    padding: 8px;
+    margin-top: 15px;
+    
+}
+.edu{
+    text-align: justify;
+}
+.shadow2{
+    box-shadow:5px 5px 40px gray ;
+    margin-left: 30px;
+    margin-top: 25px;
+    padding: 8px;
+}
+.sk{
+    text-align: center;
+}
+.ref{
+    padding-top: 900px;
+    width: 30%;
+    text-align: center;
+    margin-left: 450px;
+}
+.ses{background-image: linear-gradient(45deg,orange,tomato);
+    border: 1px solid;
+    
+}
